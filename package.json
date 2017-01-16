@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/wertrain/dot-clock-js/issues"
   },
-  "homepage": "https://github.com/wertrain/dot-clock-js#readme"
+  "homepage": "https://github.com/wertrain/dot-clock-js#readme",
+  "dependencies": {
+    "eslint": "3.13.1",
+    "gulp": "3.9.1",
+    "gulp-eslint": "3.0.1",
+    "gulp-webserver": "0.9.1"
+  }
 }
