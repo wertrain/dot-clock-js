@@ -8,15 +8,20 @@
     <meta name="author" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="style/degine.css">
-    <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-      <link rel="shortcut icon" href="style/">
   </head>
   <body>
+    <div id="clock">
+      <div class="display">
+        <div class="weekdays"></div>
+        <div class="ampm"></div>
+        <div class="alarm"></div>
+        <div class="digits"></div>
+      </div>
+    </div>
     <!-- SCRIPTS -->
     <script>var dotclock = {};</script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.0.0/moment.min.js"></script>
     <script src="script/dotclock.js"></script>
   </body>
 </html>
