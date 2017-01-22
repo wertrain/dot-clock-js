@@ -71,45 +71,45 @@
   border:5px solid transparent;
 }
 #clock .digits .d1 {
-  left: 10px;
-  width: 8px;
-  height: 8px;
+  left: 4px;
+  width: 20px;
+  height: 10px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
 }
 #clock .digits .d2 {
   top: 24px;
-  left: 10px;
-  width: 8px;
-  height: 8px;
+  left: 4px;
+  width: 20px;
+  height: 10px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
 }
 #clock .digits .d3 {
   top: 48px;
-  left: 10px;
-  width: 8px;
-  height: 8px;
+  left: 4px;
+  width: 20px;
+  height: 10px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
 }
 #clock .digits .d4 {
-  top: 12px;
+  top: 6px;
   left: 0px;
-  width: 8px;
-  height: 8px;
+  width: 10px;
+  height: 20px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
 }
 #clock .digits .d5 {
-  top: 12px;
+  top: 6px;
   right: 0px;
-  width: 8px;
-  height: 8px;
+  width: 10px;
+  height: 20px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -117,8 +117,8 @@
 #clock .digits .d6 {
   top: 34px;
   left: 0px;
-  width: 8px;
-  height: 8px;
+  width: 10px;
+  height: 20px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -126,8 +126,8 @@
 #clock .digits .d7 {
   top: 34px;
   right: 0px;
-  width: 8px;
-  height: 8px;
+  width: 10px;
+  height: 20px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
