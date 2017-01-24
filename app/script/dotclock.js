@@ -31,6 +31,7 @@ $(function(){
 
       for(var i=1; i<8; i++){
         pos.append('<span class="d' + i + '">');
+        pos.append('<span class="d' + i + 'b">');
       }
 
       // Set the digits as key:value pairs in the digits object
