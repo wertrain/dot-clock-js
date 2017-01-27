@@ -71,7 +71,7 @@
   border:5px solid transparent;
 }
 #clock .digits .d1 {
-  left: 4px;
+  left: 2px;
   width: 12px;
   height: 12px;
   -webkit-border-radius: 50%;
@@ -80,15 +80,15 @@
 }
 #clock .digits .d1b {
   left: 14px;
-  width: 8px;
-  height: 8px;
+  width: 12px;
+  height: 12px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
 }
 #clock .digits .d2 {
-  top: 28px;
-  left: 4px;
+  top: 26px;
+  left: 2px;
   width: 12px;
   height: 12px;
   -webkit-border-radius: 50%;
@@ -96,17 +96,17 @@
   border-radius: 50%;
 }
 #clock .digits .d2b {
-  top: 28px;
+  top: 26px;
   left: 14px;
-  width: 8px;
-  height: 8px;
+  width: 12px;
+  height: 12px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
 }
 #clock .digits .d3 {
-  top: 52px;
-  left: 4px;
+  top: 56px;
+  left: 2px;
   width: 12px;
   height: 12px;
   -webkit-border-radius: 50%;
@@ -114,10 +114,10 @@
   border-radius: 50%;
 }
 #clock .digits .d3b {
-  top: 52px;
+  top: 56px;
   left: 14px;
-  width: 8px;
-  height: 8px;
+  width: 12px;
+  height: 12px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -132,10 +132,10 @@
   border-radius: 50%;
 }
 #clock .digits .d4b {
-  top: 20px;
+  top: 22px;
   left: -4px;
-  width: 8px;
-  height: 8px;
+  width: 12px;
+  height: 12px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -150,10 +150,10 @@
   border-radius: 50%;
 }
 #clock .digits .d5b {
-  top: 20px;
+  top: 22px;
   right: -2px;
-  width: 8px;
-  height: 8px;
+  width: 12px;
+  height: 12px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -168,10 +168,10 @@
   border-radius: 50%;
 }
 #clock .digits .d6b {
-  top: 44px;
+  top: 46px;
   left: -4px;
-  width: 8px;
-  height: 8px;
+  width: 12px;
+  height: 12px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -186,10 +186,10 @@
   border-radius: 50%;
 }
 #clock .digits .d7b {
-  top: 44px;
+  top: 46px;
   right: -2px;
-  width: 8px;
-  height: 8px;
+  width: 12px;
+  height: 12px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
